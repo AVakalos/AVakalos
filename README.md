@@ -1,2 +1,2 @@
-I am Apostolos Vakalos, graduate student at Department of Computer Science and Engineering of University of Ioannina. 
-I currently complete my studies and i am really interested in Machine Learning in various appications and Optimization.
+I'm Apostolis, graduate from Department of Computer Science and Engineering of University of Ioannina. This profile currently contains some of my academic projects.
+
