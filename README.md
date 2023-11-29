@@ -1,2 +1,2 @@
-I'm Apostolis, graduate from Department of Computer Science and Engineering of University of Ioannina. This profile currently contains some of my academic and data science internship projects.
+I'm Apostolis, Java Back End engineer and Computer Science and Engineering graduate. This profile currently contains some of my academic and data science internship projects.
 
